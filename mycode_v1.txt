@@ -1,1 +1,2 @@
 print("Hello, my name is Lais")
+print('Hello, I study ADS")
